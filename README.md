@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourajakundu&label=Profile%20views&color=0e75b6&style=flat" alt="sourajakundu" /> </p>
 
+- 🔭 I’m currently pre-final yearite in ECE at IIT Guwahati
 - 🔭 I’m currently doing research on **Automatic Annotation of Lymph Nodes in MRI from CT**
+
 
 - 📫 How to reach me **sourajaakundu@gmail.com**
 
