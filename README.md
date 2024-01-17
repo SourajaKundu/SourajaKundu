@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently a pre-final yearite in ECE at IIT Guwahati
 - 🔭 I like Digital Electronics and Signal Processing
-- 📃 Check out my recent publication [here]([link-to-your-google-drive-document](https://drive.google.com/file/d/1YIApCqeNFV52aVMlIfLB4x4MNsJNjlVc/view?usp=drive_link)) which was presented in IEEE TransAI conference, Los Angeles, 2023.
+- 📃 Check out my recent publication [**_here_**](https://drive.google.com/file/d/1YIApCqeNFV52aVMlIfLB4x4MNsJNjlVc/view?usp=drive_link) which was presented in IEEE TransAI conference, Los Angeles, 2023.
+
 - 🔭 I’m currently doing research on **Automatic Annotation of Lymph Nodes in MRI from CT**
 
 - 📫 How to reach me **sourajaakundu@gmail.com**
