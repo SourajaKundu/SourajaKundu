@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Souraja Kundu</h1>
-<h3 align="center">An AI, and Image Processing research enthusiast student from India</h3>
+<h3 align="center">An AI and Image Processing research enthusiast student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourajakundu&label=Profile%20views&color=0e75b6&style=flat" alt="sourajakundu" /> </p>
 
-- 🔭 I’m currently a pre-final yearite in ECE at IIT Guwahati
-- 🔭 I like Digital Electronics and Signal Processing
-- 📃 Check out my recent publication [**_here_**](https://drive.google.com/file/d/1YIApCqeNFV52aVMlIfLB4x4MNsJNjlVc/view?usp=drive_link) which was presented in IEEE TransAI conference, Los Angeles, 2023.
+- 🔭 I’m currently a final yearite in ECE at IIT Guwahati
+- 🔭 My research interests are Computer Vision and Deep Learning.
+- 📃 You can find all my recent research papers [**_here_**](https://scholar.google.com/citations?user=EIW-SSkAAAAJ&hl=en).
+- ✨ My [**_personal website_**](https://sites.google.com/view/sourajakundu/home) contains my conference presentations and is regularly updated. 
 
-- 🔭 I’m currently doing research on **Automatic Annotation of Lymph Nodes in MRI from CT**
+- 🔭 I’m currently doing research on **Interpretable Vision Transformer Implementation and Climate Monitoring using Vision-Language Models**
 
 - 📫 How to reach me **sourajaakundu@gmail.com**
 
